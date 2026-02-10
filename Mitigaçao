@@ -1,0 +1,30 @@
+Mitigação de vuln XSS
+
+
+OWASP Top 10 2021: A03:2021 - Injection
+
+1. DEFESA PRIMÁRIA: ESCAPE/ENCODING
+Context-Specific Output Encoding
+
+2. VALIDAÇÃO DE INPUT E SANITIZAÇÃO
+Input Validation (Whitelist Approach)
+
+3. POLÍTICAS DE SEGURANÇA (CSP - Content Security Policy)
+Headers CSP Modernos
+
+4. HEADERS DE SEGURANÇA ADICIONAIS
+
+5. COOKIES SEGUROS
+
+6. VALIDAÇÃO DO LADO DO CLIENTE (Complementar)
+
+7. TEMPLATE ENGINES SEGURAS
+
+8. FERRAMENTAS DE SEGURANÇA
+SAST/DAST para XSS
+
+9. ARQUITETURA SEGURA
+Sandboxing e Iframes Seguros
+
+10. MONITORAMENTO E RESPOSTA
+Logging e Detecção
